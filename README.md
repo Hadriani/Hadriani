@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> I am an aspiring web developer with no experience of work on companies before, but looking forward to learn, grow and find a purpose within this community. I feel mostly on my place working remotely, since I have a flexible time when taking care of my other duties. I stand for innovation, quality and excited to learn new technologies that
-will benefit us much more, and bring the desired products to the people. I strive using my own creative mind.
+--> I am an aspiring web developer looking forward to learn, grow and find a purpose within this community. I stand for innovation, quality and excited to learn new technologies that will benefit us much more, and bring the desired products to the people. 
 
 Previously, I was a traveller, worked as a junior engineer officer in the maritime industry :ship::luggage:. I have a Bachelor Degree in mechanical engineering. I travelled all round the world :smile:, but the life at sea didn't suit me right, and
 decided I should focus on what I can do better: working in IT, web programming. 
