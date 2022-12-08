@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Previously, I was a traveller, worked as a junior engineer officer in the maritime industry :ship::luggage:. I have a Bachelor Degree in mechanical engineering. I travelled all round the world :smile:, but the life at sea didn't suit me right, and
 decided I should focus on what I can do better: working in IT, web programming. 
 
-I got into programming in 2020, and started learning from scratch since then: HTML, CSS, Javascript, React.js, Solidity (how to create websites: e-commerce stores, blogs, and more). 
+I got into programming in 2021, and started learning from scratch since then: HTML, CSS, Javascript, React.js, Solidity (how to create websites: e-commerce stores, blogs, and more). 
 I'm amazed about the new technologies and innovations that are evolving by each day.
 Blockchain technology is one of the most important things that fascinates me, and by curiosity I'm delving into this area of work very deeply. Crypto :yellow_circle: and NFTs are somewhat to watch for in the future, and the benefits of the blockchain technology that brings us.
 
