@@ -31,5 +31,5 @@ My hobby is music, I'm a composer and a producer, I like to play the piano and m
 
 ### What I'm focusing on!
  - currently improving my skills in React.js, Next.js, hardhat and Solidity.
- - currently building my own projects.
+ - currently building my own projects with Next.js and React.
 
