@@ -30,6 +30,6 @@ I'm always trying to grow, and excited to learn new things as time goes by. I wa
 My hobby is music, I'm a composer and a producer, I like to play the piano and make electronic music tracks for the people :notes:. 
 
 ### What I'm focusing on!
- - currently improving my skills in React.js, hardhat and Solidity.
+ - currently improving my skills in React.js, Next.js, hardhat and Solidity.
  - currently building my own projects.
 
