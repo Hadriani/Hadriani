@@ -34,6 +34,6 @@ I'm always trying to grow, and excited to learn new things as time goes by. I wa
 My hobby is music, I'm a composer and a producer, I like to play the piano and make electronic music tracks for the people :notes:. 
 
 ### What I'm focusing on!
- - currently building my own project with Next.js and React on an e-commerce store and blog.
+ - currently building my own complex project with Next.js and React on an e-commerce store and blog.
  - improving my skills in React.js, Next.js, hardhat and Solidity.
 
