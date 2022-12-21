@@ -23,7 +23,7 @@ decided I should focus on what I can do better: working in IT development.
 
 I got into development in 2021, and started learning from scratch since then: HTML, CSS, and Javascript. 
 
-For now I have successfuly completed an e-commerce site through React.js framework inclusding HTML, CSS, and different JavaScript codes with authentication and payment functionality (which I struggled a bit to find solutions, but in the end I finally reached to the desired result). I used primarily React.js with javascript contexts and even learned about Redux and implemented into my projects.
+For now I have successfuly completed an e-commerce site through React.js framework including HTML, CSS, and different JavaScript codes with authentication and payment functionality (which I struggled a bit to find solutions, but in the end I finally reached to the desired result). I used primarily React.js with javascript contexts and even learned about Redux and implemented into my projects.
 
 I'm eager to learn new technologies and frameworks, into becomaing a succeeding developer. I'm polishing my skills learnt throughout online courses.
 
