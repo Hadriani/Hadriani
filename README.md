@@ -31,6 +31,7 @@ In addition to my work as a developer, I am also interested in exploring new tec
 I'm always trying to grow, and excited to learn new things as time goes by. I want to put my works to good use. 
 
 My hobby is music, I'm a composer and a producer, I like to play the piano and make electronic music tracks for the people :notes:. 
+
 On the left I have a link to my portfolio site, as well as my LinkedIn profile. 
 
 ### What I'm focusing on!
